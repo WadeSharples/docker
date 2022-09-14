@@ -1,4 +1,4 @@
-FROM php:7.4.27-apache-buster
+FROM php:7.4.29-apache-buster
 ENV FR_DB_HOST=db \
     FR_DB_PORT=3306 \
     FR_DB_NAME=filerun \
